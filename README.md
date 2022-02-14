@@ -17,4 +17,4 @@ I'm a Full-Stack Developer, focusing on JavaScript/TypeScript and Python, with a
 | | |
 | | <img width="16px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" /> `Django` |
 
-### <img width="16px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svgLinkedIn" /> `LinkedIn`
+<img width="16px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svgLinkedIn" /> `LinkedIn`
