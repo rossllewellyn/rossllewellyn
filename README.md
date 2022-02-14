@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer, focusing on JavaScript/TypeScript and Python, with a background in Electronics and Embedded Systems. I strive to create clean UX and agile code, and love diving into new technologies. 
 
-### Technologies I love working with:
+### Technologies I enjoy working with:
 | Data | Web | Design & Styling |
 | :--- | :--- | :--- |
 | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  `Python` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  `Figma`|
