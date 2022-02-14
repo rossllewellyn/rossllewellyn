@@ -11,7 +11,7 @@ I'm a Full-Stack Developer, focusing on JavaScript and Python, with a background
 | | | |
 | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />  `Sequelize` | <img width="16px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg" />  `Next` | <img width="16px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg" />  `Tailwind` | <img width="16px" src="https://docs.pytest.org/en/7.0.x/_static/pytest_logo_curves.svg" /> `Pytest`
 | | | |
-| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  `Mongodb` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />  `Express` |  |
+| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  `MongoDB` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />  `Express` |  |
 | | | |
 | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />  `Redis` | <img width="16px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/socketio/socketio-original.svg" />  `Socket.io` | |
 | | | |
