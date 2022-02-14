@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer, focusing on JavaScript/TypeScript and Python, with a background in Electronics and Embedded Systems. I strive to create clean UX and agile code, and love diving into new technologies. 
 
-### Technologies I enjoy working with:
+### Technologies I enjoy working with
 | Data | Web | Design & Styling |
 | :--- | :--- | :--- |
 | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  `Python` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  `Figma`|
@@ -17,5 +17,6 @@ I'm a Full-Stack Developer, focusing on JavaScript/TypeScript and Python, with a
 | | |
 | | <img width="16px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" /> `Django` |
 
+### More about me
 [LinkedIn](https://www.linkedin.com/in/rossllewellyn/)
 
