@@ -1,6 +1,6 @@
 ### Hi, I'm Ross 👋🏼
 
-I'm a Full-Stack Developer, focusing on JavaScript and Python, with a background in Electronics and Embedded Systems. I strive to create clean UX and agile code, and love diving into new technologies. 
+I'm a Full-Stack Developer, focusing on JavaScript and Python, with a background in Electronics and Embedded Systems. I strive to create clean UX and code, and love diving into new technologies. 
 
 ### Technologies I enjoy working with
 | Data | Web | Design & Styling | Testing |
