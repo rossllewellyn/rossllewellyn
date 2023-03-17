@@ -1,6 +1,10 @@
-### Hi, I'm Ross 👋🏼
+### Hi, I'm Ross 👋
 
-I'm a Full-Stack Developer, focusing on JavaScript, with a background in Electronics and Embedded Systems. I strive to create clean UX and code, and love diving into new technologies. 
+I'm an Enthusiastic Full-Stack Developer with a background in Electronics and Embedded Systems, eager to explore new technologies, connect with my peers, and push myself to learn.
+
+Technologies and tools I enjoy working with: Node.js, TypeScript, React.js, PostgreSQL, MongoDB, Docker, Jest, AWS, GCP, Firebase.
+
+My interests include pushing myself in the gym with weightlifting, watching Formula 1 races (often in dispair at my Fantasy Formula 1 team), and getting creative by painting miniatures.
 
 ### Technologies I enjoy working with
 | Data | Web | Design & Styling | Testing |
