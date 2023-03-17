@@ -18,7 +18,7 @@ My interests include working up a sweat in the gym with weightlifting, watching 
 | | | | | |
 | <img width="16px" src="https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi" />  `Next.js` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />  `Redis` | | | <img width="16px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />  `Docker` |
 | | | | | |
-| | <img width="16px" height="16px" src="https://uploads-ssl.webflow.com/630e3428eec8a9908c388a87/6377543e4f7c00e6d8f71d0c_Color%3DYellow.svg" /> `Trevor` | | | <img width="16px" src="https://uploads.sitepoint.com/wp-content/uploads/2017/03/1489161809gear-color.png" /> `Semaphore` |
+| | <img width="16px" height="16px" src="https://uploads-ssl.webflow.com/630e3428eec8a9908c388a87/6377543e4f7c00e6d8f71d0c_Color%3DYellow.svg" /> `Trevor` | | | <img width="16px" src="https://avatars.githubusercontent.com/u/9742242?s=200&v=4" /> `Semaphore` |
 
 ### More about me
 <img width="16px" src="https://camo.githubusercontent.com/603c4b5be183feb62c872b2507be983d63148742c5746554777656b5d8d4df4e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" /> [LinkedIn](https://www.linkedin.com/in/rossllewellyn/)
