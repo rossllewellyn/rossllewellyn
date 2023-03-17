@@ -8,7 +8,7 @@ My interests include working up a sweat in the gym with weightlifting, watching 
 
 ### Technologies and tools I enjoy working with
 
-| Web  | Data  | DevOps | Testing | Design |
+| Web  | Data  | Cloud & DevOps | Testing | Design |
 | :--- | :---  | :---   | :---    | :---   |
 | <img width="16px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />  `Node.js` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  `PostgreSQL` | <img width="16px" src="https://www.svgrepo.com/show/135834/amazon.svg" />  `AWS` | <img width="16px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" /> `Jest` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  `Figma` |
 | | | | | |
