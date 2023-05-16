@@ -1,6 +1,6 @@
 ### Hi, I'm Ross 👋
 
-I'm an Enthusiastic Full Stack Developer with a background in Electronics and Embedded Systems, eager to explore new technologies, connect with my peers, and push myself to learn.
+I'm an enthusiastic Full Stack Developer with a background in Electronics and Embedded Systems, eager to explore new technologies, connect with my peers, and push myself to learn.
 
 My interests include working up a sweat in the gym with weightlifting, watching Formula 1 races (often in dispair at my Fantasy Formula 1 team), and getting creative by painting miniatures.
 
