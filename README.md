@@ -12,8 +12,8 @@ My interests include weightlifting, watching Formula 1 races (often in despair a
 |                                                                      |                                                                      |                                                                    |                                                                      |
 | <img width="16px" src="https://tinyurl.com/48r4d6bv" /> `Node.js`    | <img width="16px" src="https://tinyurl.com/ynn7un62" /> `MongoDB`    | <img width="16px" src="https://tinyurl.com/j5advber" /> `GCP`      | <img width="16px" src="https://tinyurl.com/ycy9ejjf" /> `Kubernetes` |
 |                                                                      |                                                                      |                                                                    |                                                                      |
-| <img width="16px" src="https://tinyurl.com/mr23e7ww" /> `React.js`   | <img width="16px" src="https://tinyurl.com/ypv2pj9p" /> `Redis`      | <img width="16px" src="https://tinyurl.com/yv7tbjun" /> `Firebase` | <img width="16px" src="https://tinyurl.com/2rkw4r6v" /> `Terraform`  |
+| <img width="16px" src="https://tinyurl.com/mr23e7ww" /> `React.js`   | <img width="16px" src="https://tinyurl.com/ypv2pj9p" /> `Redis`      | <img width="16px" src="https://tinyurl.com/5xhad65p" /> `Vercel` | <img width="16px" src="https://tinyurl.com/2rkw4r6v" /> `Terraform`  |
 
 ### More about me
 
-<img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> [LinkedIn](https://www.linkedin.com/in/rossllewellyn/)
+<img width="16px" src="https://tinyurl.com/evtp5u9a" /> [LinkedIn](https://www.linkedin.com/in/rossllewellyn/)
