@@ -6,13 +6,12 @@ My interests include weightlifting, watching Formula 1 races (often in despair a
 
 ### Technologies and tools I enjoy working with
 
-| Web                                                                  | Data                                                                 | Cloud                                                              | DevOps                                                               |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| <img width="16px" src="https://tinyurl.com/bdhrcs9a" /> `TypeScript` | <img width="16px" src="https://tinyurl.com/y7a4wntc" /> `PostgreSQL` | <img width="16px" src="https://tinyurl.com/3c3xwtva" /> `AWS`      | <img width="16px" src="https://tinyurl.com/52hebhjy" /> `Docker`     |
-|                                                                      |                                                                      |                                                                    |                                                                      |
-| <img width="16px" src="https://tinyurl.com/48r4d6bv" /> `Node.js`    | <img width="16px" src="https://tinyurl.com/ynn7un62" /> `MongoDB`    | <img width="16px" src="https://tinyurl.com/j5advber" /> `GCP`      | <img width="16px" src="https://tinyurl.com/ycy9ejjf" /> `Kubernetes` |
-|                                                                      |                                                                      |                                                                    |                                                                      |
-| <img width="16px" src="https://tinyurl.com/mr23e7ww" /> `React.js`   | <img width="16px" src="https://tinyurl.com/ypv2pj9p" /> `Redis`      | <img width="16px" src="https://tinyurl.com/5xhad65p" /> `Vercel` | <img width="16px" src="https://tinyurl.com/2rkw4r6v" /> `Terraform`  |
+| Languages | Web | Data | Cloud | DevOps |
+| --- | --- | --- | --- | --- |
+| <img width="16px" src="https://tinyurl.com/bdhrcs9a" /> `TypeScript`  | <img width="16px" src="https://tinyurl.com/48r4d6bv" /> `Node` | <img width="16px" src="https://tinyurl.com/y7a4wntc" /> `PostgreSQL` | <img width="16px" src="https://tinyurl.com/3c3xwtva" /> `AWS` | <img width="16px" src="https://tinyurl.com/52hebhjy" /> `Docker`       |
+| <img width="16px" src="https://tinyurl.com/ycykwcbz" /> `JavaScript` | <img width="16px" src="https://tinyurl.com/mr23e7ww" /> `React` | <img width="16px" src="https://tinyurl.com/ynn7un62" /> `MongoDB`       | <img width="16px" src="https://tinyurl.com/j5advber" /> `GCP`        | <img width="16px" src="https://tinyurl.com/ycy9ejjf" /> `Kubernetes`   |
+| <img width="16px" src="https://tinyurl.com/4ufrzs3t" /> `Rust`         | <img width="16px" src="https://tinyurl.com/ymebxd3t" /> `Next` | <img width="16px" src="https://tinyurl.com/ypv2pj9p" /> `Redis`         | <img width="16px" src="https://tinyurl.com/5xhad65p" /> `Vercel`       | <img width="16px" src="https://tinyurl.com/2rkw4r6v" /> `Terraform`    |
+
 
 ### More about me
 
