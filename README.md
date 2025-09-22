@@ -3,7 +3,7 @@ I'm a Software Engineer with a background in electronics and embedded systems; e
 
 My interests include weightlifting, watching Formula 1 races (often in despair at my Fantasy Formula 1 team), and painting miniatures.
 
-### Technologies and tools I enjoy working with
+### Technologies and tools I enjoy working with:
 | Core | Frameworks | Data | Cloud | DevOps |
 | --- | --- | --- | --- | --- |
 | <img width="16px" src="https://tinyurl.com/bdhrcs9a" /> `TypeScript` | <img width="16px" src="https://tinyurl.com/mr23e7ww" /> `React` | <img width="16px" src="https://tinyurl.com/y7a4wntc" /> `PostgreSQL` | <img width="16px" src="https://tinyurl.com/3c3xwtva" /> `AWS` | <img width="16px" src="https://tinyurl.com/2rkw4r6v" /> `Terraform` |
