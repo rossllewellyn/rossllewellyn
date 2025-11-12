@@ -1,5 +1,5 @@
 ### Hi, I'm Ross 👋
-I'm a Software Engineer with a background in electronics and embedded systems; eager to explore new technologies, connect with my peers, and push myself to learn.
+I'm a Senior Software Engineer with a background in electronics and embedded systems; eager to explore new technologies, connect with my peers, and push myself to learn.
 
 My interests include weightlifting, watching Formula 1 races (often in despair at my Fantasy Formula 1 team), and painting miniatures.
 
